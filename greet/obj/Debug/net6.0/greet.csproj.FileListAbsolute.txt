@@ -1,0 +1,5 @@
+/home/carlatakagi/Desktop/repo-csharp/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/carlatakagi/Desktop/repo-csharp/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlatakagi/Desktop/repo-csharp/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/carlatakagi/Desktop/repo-csharp/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/carlatakagi/Desktop/repo-csharp/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
