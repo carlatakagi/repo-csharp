@@ -2,7 +2,7 @@
 
 public class Class1
 {
-    public static string Greet()
+    public static string Main(string[] args)
     {
         return "Olá";
     }

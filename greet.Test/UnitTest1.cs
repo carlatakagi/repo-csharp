@@ -5,7 +5,7 @@ namespace greet.Test;
 
 public class UnitTest1
 {
-    [Theory(DisplayName = "deve retornar \"Olá\"")]
+    [Theory(DisplayName = "Deve retornar \"Olá\"")]
     [InlineData("Olá")]
     public void TestGreet(string expected)
     {
