@@ -1,0 +1,12 @@
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/bin/Debug/net6.0/exercise2.deps.json
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/bin/Debug/net6.0/exercise2.dll
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/bin/Debug/net6.0/exercise2.pdb
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.csproj.AssemblyReference.cache
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.AssemblyInfoInputs.cache
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.AssemblyInfo.cs
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.csproj.CoreCompileInputs.cache
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.dll
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/refint/exercise2.dll
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/exercise2.pdb
+/home/carlatakagi/Desktop/repo-csharp/tranformacao-entre-tipos/exercicio-2/exercise2/obj/Debug/net6.0/ref/exercise2.dll
